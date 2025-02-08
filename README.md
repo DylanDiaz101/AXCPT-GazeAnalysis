@@ -54,12 +54,12 @@ examines **how eye movement patterns during the cue-probe delay of the AX-CPT** 
    - **Gaze data files** → `1_ALL_TRIALS_nonxlsx/` or `3_CORRECT_TRIALS_ONLY_nonxlsx/`
    - **Excel-based files (XLSX)** → `2_ALL_TRIALS_xlsx/` or `4_CORRECT_TRIALS_ONLY_xlsx/`
   
-2. Run the corresponding script from the `scripts/` folder:
+2. Run the corresponding script:
    ```sh
    python main.py
    ```
 
-3. Processed **output files** will be stored in the `/output/` folder.
+3. Processed **output files** will be stored in the `/!OUTPUT/` folder.
 
 ### **File Paths in Scripts**
 Each script defines:

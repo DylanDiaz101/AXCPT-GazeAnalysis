@@ -79,4 +79,6 @@ pip install -r requirements.txt
 ```
 
 ## **Acknowledgments**
-This project is based on the **AX-CPT study on proactive cognitive control** and was developed as part of **research conducted at California State University, San Bernardino**.
+This project is based on the AX-CPT study on proactive cognitive control and was developed as part of research conducted at California State University, San Bernardino's Learning Research Institute (LRI) under the Department of Psychology.
+
+For further correspondence: jreimer@csusb.edu

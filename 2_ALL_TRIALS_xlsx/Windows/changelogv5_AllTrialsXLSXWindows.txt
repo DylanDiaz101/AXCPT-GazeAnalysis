@@ -1,0 +1,10 @@
+ALL_TRIALS_XLSX changelog Windows:
+
+-Added Num of Correct Trials by Blocks 3/19/2023
+-Added Num of First Fixation by Block and Proportion by Block 3/22/2023
+-Conversion of program to include all trials rather than just the correct trials 3/22/2023
+-Added check for divide by zero during proportion by block section 3/24/2022
+-Added back xlsx to csv conversion feature. This program takes XLSX files rather than gazedata files! 3/25/2023
+-Fixed logic for [cue/probe]_visits_cue_per_correct_trial; removed * 1000 3/26/2022
+-Added 'ID' column from original df as a relevant column for df_2 which we perform our analysis on. (needed for TVD within trials) 6/7/2023
+-Added TVD within trials (cue) functionality. Program will output new secondary xlsx file named: 'Cue_TVD_within_trials.xlsx' 6/7/2023

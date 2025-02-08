@@ -3,7 +3,7 @@
 This repository contains scripts for processing **eye-tracking data** collected during an **AX-CPT (AX Continuous Performance Task)** experiment. The study examines **proactive cognitive control** using **ocular measures** and is based on research conducted by **Jason F. Reimer (PI)**.
 
 ## **Overview**
-The scripts process eye-tracking data collected using a **Tobii eye-tracker** and recorded in **Inquisit (Millisecond Software)**. The output provides **aggregated trial data** with metrics such as:
+The scripts process eye-tracking data collected using a **Tobii eye-tracker**. The output provides **aggregated trial data** with metrics such as:
 - **Visit counts** for specific Areas of Interest (AOIs)
 - **Total visit duration (TVD)**
 - **Time to first fixation**

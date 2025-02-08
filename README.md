@@ -3,12 +3,15 @@
 This repository contains scripts for processing **eye-tracking data** collected during an **AX-CPT (AX Continuous Performance Task)** experiment. The study examines **proactive cognitive control** using **ocular measures** and is based on research conducted by **Jason F. Reimer (PI)**.
 
 ## **Overview**
-The scripts process eye-tracking data collected using a **Tobii eye-tracker**. The output provides **aggregated trial data** with metrics such as:
-- **Visit counts** for specific Areas of Interest (AOIs)
-- **Total visit duration (TVD)**
-- **Time to first fixation**
-- **Proportion of trials with first fixations in specific AOIs**
-- **Correct and incorrect trials analysis**
+The scripts process eye-tracking data collected using a **Tobii eye-tracker** and recorded in **Inquisit (Millisecond Software)**. The output provides **aggregated trial data** with metrics such as:
+
+- **Visit counts** for specific **Areas of Interest (AOIs)**, including top and bottom probe fixation points.
+- **Total Visit Duration (TVD)**, measured in seconds for each AOI during the cue-probe delay.
+- **Time to First Fixation**, indicating how quickly participants looked at key AOIs (e.g., bottom-right probe in BX trials).
+- **Proportion of trials with first fixations in specific AOIs**, reflecting proactive vs. reactive control strategies.
+- **Correct and incorrect trials analysis**, allowing comparisons between performance and gaze behavior.
+
+The data output includes **trial-level** and **aggregated task-level** metrics that help quantify how participants engaged in **proactive cognitive control** based on their eye movement patterns.
 
 The tasks are adapted for **Windows & MacOS** and handle both:
 - **Gaze data files** (non-XLSX)
@@ -51,10 +54,10 @@ examines **how eye movement patterns during the cue-probe delay of the AX-CPT** 
 ## **Usage**
 ### **Running the Scripts**
 1. Place **input files** into the correct subfolders:
-   - **Gaze data files** → `1_ALL_TRIALS_nonxlsx/` or `3_CORRECT_TRIALS_ONLY_nonxlsx/`
-   - **Excel-based files (XLSX)** → `2_ALL_TRIALS_xlsx/` or `4_CORRECT_TRIALS_ONLY_xlsx/`
+   - **Gaze data files** → `1_ALL_TRIALS_nonxlsx/` or `3_CORRECT_TRIALS_ONLY_nonxlsx/` into `/!INPUT`
+   - **Excel-based files (XLSX)** → `2_ALL_TRIALS_xlsx/` or `4_CORRECT_TRIALS_ONLY_xlsx/` into `/!INPUT`
   
-2. Run the corresponding script:
+2. Run the corresponding script (recommended to run using Python IDLE):
    ```sh
    python main.py
    ```

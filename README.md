@@ -24,8 +24,6 @@ The tasks are adapted for **Windows & MacOS** and handle both:
 📂 4_CORRECT_TRIALS_ONLY_xlsx/      # Outputs only correct trials (XLSX input)
     ├── Windows/
     ├── MacOS/
-📂 output/                      # Stores processed results
-📂 scripts/                      # Python processing scripts
 📄 README.md                    # Documentation (this file)
 📄 requirements.txt              # Dependencies for the Python scripts
 ```

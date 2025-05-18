@@ -27,6 +27,8 @@ The tasks are adapted for **Windows & MacOS** and handle both:
 📂 4_CORRECT_TRIALS_ONLY_xlsx/      # Outputs only correct trials (XLSX input)
     ├── Windows/
     ├── MacOS/
+📂 5_TVD_Visits_Within_Correct_Trials_Scripts  # Outputs trial level data for TVD and AOI Visit Counts for correct trials (cue and probe conditions)
+    ├── Windows_XLSX/
 📄 README.md                    # Documentation (this file)
 📄 requirements.txt              # Dependencies for the Python scripts
 ```

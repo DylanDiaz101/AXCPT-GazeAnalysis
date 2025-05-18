@@ -41,11 +41,6 @@ The study titled:
 
 examines **how eye movement patterns during the cue-probe delay of the AX-CPT** reflect **proactive control engagement**.
 
-### **Key Findings**
-- **Eye movement patterns** predict proactive control and the ability to **override prepotent responses**.
-- **Cue maintenance** (measured via **fixations on cue-related AOIs**) can be a **biomarker of proactive control**.
-- **Working memory capacity (WMC) and proactive control** appear to be **independent cognitive processes**.
-
 ## **Data Collection**
 - **Tobii Eye Tracker** (60 Hz sampling rate, 0.35° resolution, 0.5° accuracy)
 - **5-Point Calibration** for each participant using **Tobii Studio software**

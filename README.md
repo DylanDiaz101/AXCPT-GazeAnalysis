@@ -1,6 +1,6 @@
 # **AX-CPT Eye Tracking Data Processing**
 
-This repository contains scripts for processing **eye-tracking data** collected during an **AX-CPT (AX Continuous Performance Task)** experiment. The study examines **proactive cognitive control** using **ocular measures** and is based on research conducted by **Jason F. Reimer (PI)**.
+This repository contains scripts for processing **eye-tracking data** collected during an **AX-CPT (AX Continuous Performance Task)** experiment. The study examines **proactive cognitive control** using **ocular measures** and is based on research conducted by **Jason F. Reimer (PI)**. Link to Open Science Framework (OSF) repository of study: https://osf.io/z69pq/
 
 ## **Overview**
 The scripts process eye-tracking data collected using a **Tobii eye-tracker**. The output provides **aggregated trial data** with metrics such as:
@@ -37,7 +37,7 @@ The tasks are adapted for **Windows & MacOS** and handle both:
 ## **Study Context**
 The study titled:
 > **"Ocular Measures of Controlled Processing: Examining the Role of Cue Maintenance and Working Memory Capacity in Proactive Cognitive Control"**  
-> **PI: Jason F. Reimer, California State University, San Bernardino**  
+> **PI: Jason F. Reimer, California State University, San Bernardino**  OSF: https://osf.io/z69pq/
 
 examines **how eye movement patterns during the cue-probe delay of the AX-CPT** reflect **proactive control engagement**.
 

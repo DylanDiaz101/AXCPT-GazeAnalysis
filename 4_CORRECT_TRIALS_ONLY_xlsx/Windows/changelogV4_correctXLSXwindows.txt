@@ -1,0 +1,7 @@
+CORRECT_TRIALS_ONLY_XLSX Windows changelog:
+
+-Added Num of Correct Trials by Blocks 3/19/2023
+-Added Num of First Fixation by Block and Proportion by Block 3/22/2023
+-Added check for divide by zero during proportion by block section 3/24/2022
+-Added back xlsx to csv conversion feature. This program takes XLSX files rather than gazedata files! 3/25/2023
+-Fixed logic for [cue/probe]_visits_cue_per_correct_trial; removed * 1000 3/26/2022

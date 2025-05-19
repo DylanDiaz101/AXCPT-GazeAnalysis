@@ -1,0 +1,7 @@
+pandas==1.5.3
+numpy==1.25.0
+matplotlib==3.7.1
+openpyxl==3.1.5
+
+# Optional: specify Python version
+python>=3.13.0

@@ -1,6 +1,6 @@
 # **AX-CPT Eye Tracking Data Processing**
 
-This repository contains scripts for processing **eye-tracking data** collected during an **AX-CPT (AX Continuous Performance Task)** experiment. The study examines **proactive cognitive control** using **ocular measures** and is based on research conducted by **Jason F. Reimer (PI)**. 
+This repository (https://github.com/DylanDiaz101/AXCPT-GazeAnalysis) contains scripts for processing **eye-tracking data** collected during an **AX-CPT (AX Continuous Performance Task)** experiment. The study examines **proactive cognitive control** using **ocular measures** and is based on research conducted by **Jason F. Reimer (PI)**. 
 > Link to Open Science Framework (OSF) repository of study: https://osf.io/z69pq/
 
 ## **Overview**

@@ -1,4 +1,5 @@
-This script was written by Dylan M. Diaz (dylandiaz101@yahoo.com | https://github.com/zesshii)
+This script was written by Dylan M. Diaz (dylandiaz101@yahoo.com | https://github.com/DylanDiaz101/AXCPT-GazeAnalysis)
+>>>>>>> df0cb06 (update README files)
 for the CSUSB Learning Research Institute under directions from PI: Dr. Jason Reimer
 (jreimer@csusb.edu)
 

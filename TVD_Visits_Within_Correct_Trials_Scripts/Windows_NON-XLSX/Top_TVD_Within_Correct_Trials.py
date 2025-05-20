@@ -47,7 +47,7 @@ def extract_condition(df, name, cue_val, probe_col, keep_X):
     counts = (
         sub
         .groupby('interval').last()          # one row per segment (1 segment = a contiguous gaze interval)
-        .query('AOI == 1')                   # cue AOI only (filter these rows to only include cue AOI)
+        .query('AOI == 1')                   # top AOI only (filter these rows to only include top AOI)
         .query('ACC == 1')                   # correct trials only
         .groupby('NewTrialId')['count']      # group the filtered rows by trial num
         .sum()                               # add the count values in each trial = total num of gaze samples spent on AOI3 in ISI of trial.

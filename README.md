@@ -18,6 +18,8 @@ The tasks are adapted for **Windows & MacOS** and handle both:
 - **Gaze data files** (non-XLSX)
 - **Excel-based files** (XLSX)
 
+> For full description of each data variable output (column) please refer to "Data File Variable Descriptions rev2.pdf"
+
 ## **Repository Structure**
 ```
 📂 1_ALL_TRIALS_nonxlsx/        # Outputs all trials data (gaze files as input)

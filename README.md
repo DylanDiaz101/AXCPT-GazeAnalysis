@@ -18,7 +18,7 @@ The tasks are adapted for **Windows & MacOS** and handle both:
 - **Gaze data files** (non-XLSX)
 - **Excel-based files** (XLSX)
 
-> For full description of each data variable output (column) please refer to "Data File Variable Descriptions rev2.pdf"
+> For full description of each data variable output (columns) please refer to "Data File Variable Descriptions rev2.pdf"
 
 ## **Repository Structure**
 ```
